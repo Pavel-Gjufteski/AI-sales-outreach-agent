@@ -1,0 +1,15 @@
+langchain==1.2.3
+langchain-openai==1.1.7
+langgraph==1.0.5
+openai==2.15.0
+
+python-dotenv==1.2.1
+beautifulsoup4==4.14.3
+requests==2.32.5
+
+selenium
+webdriver-manager
+reportlab==4.2.5
+pymongo
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
